@@ -1,16 +1,17 @@
-### Hi there 👋
+```
+ ▄ .▄▄▄▄ .▄▄▌  ▄▄▌          ▄▄▌ ▐ ▄▌      ▄▄▄  ▄▄▌  ·▄▄▄▄  
+██▪▐█▀▄.▀·██•  ██•   ▄█▀▄   ██· █▌▐█ ▄█▀▄ ▀▄ █·██•  ██· ██ 
+██▀▀█▐▀▀▪▄██ ▪ ██ ▪ ▐█▌.▐▌  ██▪▐█▐▐▌▐█▌.▐▌▐▀▀▄ ██ ▪ ▐█▪ ▐█▌
+██▌▐▀▐█▄▄▌▐█▌ ▄▐█▌ ▄▐█▌.▐▌  ▐█▌██▐█▌▐█▌.▐▌▐█•█▌▐█▌ ▄██. ██ 
+▀▀▀ · ▀▀▀ .▀▀▀ .▀▀▀  ▀█▄▀▪   ▀▀▀▀ ▀▪ ▀█▄▀▪.▀  ▀.▀▀▀ ▀▀▀▀▀• 
+```
 
 <!--
-**Rhoumi/rhoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Rémi GEORGES**, i'm a **Sound Engineer**, **Computer Music Director**, **musician** and **visual artist** focused on *live-coding*.
+I'm currently working at [Grame](https://github.com/grame-cncm) on the [syfala-project](https://github.com/inria-emeraude/syfala), 
+I also organise events, conference and workshops on live_coding scene and movement were i believe considering writing code as a artistic gesture.
+I'm really interessed in digital Audio Network,
+I written the [faust2tidalcycles](https://github.com/grame-cncm/faust/blob/master-dev/tools/faust2appls/faust2tidalcycles) tool and i contribute to the python live coding language [Sardine](https://github.com/Bubobubobubobubo/sardine).
+I also work as an Computer Music Director on the [ORG projects by the artist Vahan Soghomonian](http://www.vahansoghomonian.net/work/org-rchbrn/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://remigeorges.fr)
