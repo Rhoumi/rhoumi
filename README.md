@@ -6,7 +6,6 @@
 ▀▀▀ · ▀▀▀ .▀▀▀ .▀▀▀  ▀█▄▀▪   ▀▀▀▀ ▀▪ ▀█▄▀▪.▀  ▀.▀▀▀ ▀▀▀▀▀• 
 ```
 
-<!--
 My name is **Rémi GEORGES**, i'm a **Sound Engineer**, **Computer Music Director**, **musician** and **visual artist** focused on *live-coding*.
 I'm currently working at [Grame](https://github.com/grame-cncm) on the [syfala-project](https://github.com/inria-emeraude/syfala), 
 I also organise events, conference and workshops on live_coding scene and movement were i believe considering writing code as a artistic gesture.
